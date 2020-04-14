@@ -10,10 +10,3 @@ export default class App extends Application {
 }
 
 loadInitializers(App, config.modulePrefix);
-
-const example = {
-  asdf: 1,
-  ddd: 2,
-};
-
-example;
