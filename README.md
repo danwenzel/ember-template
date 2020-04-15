@@ -1,4 +1,4 @@
-# ember-template-1
+# ember-template
 
 An ember starter app, that started with `ember new` and added some of my favorite ember things:
 
