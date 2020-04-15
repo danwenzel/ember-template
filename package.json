@@ -1,8 +1,8 @@
 {
-  "name": "ember-template-1",
+  "name": "ember-template",
   "version": "0.0.0",
   "private": true,
-  "description": "Small description for ember-template-1 goes here",
+  "description": "Small description for ember-template goes here",
   "repository": "",
   "license": "MIT",
   "author": "",
