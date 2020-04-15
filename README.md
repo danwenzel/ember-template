@@ -1,5 +1,10 @@
 # ember-template-1
 
+An ember starter app, that started with `ember new` and added some of my favorite ember things:
+
+- prettier, embedded into eslint
+- prettier for handlebars, with autofix
+
 ## auto-fixing templates in VS Code
 
 - Install https://marketplace.visualstudio.com/items?itemName=emeraldwalk.RunOnSave
